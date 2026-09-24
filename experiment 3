@@ -12,6 +12,7 @@ int monthlySales[12];
 int totalQuantity;
 float totalBill;
 
+
 public:
 
 int acceptDetails()
