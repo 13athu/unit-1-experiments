@@ -11,6 +11,7 @@ int marks[3];
 int total;
 float percentage;
 
+
 int accept()
 {
 cout << "Enter Roll Number: ";
